@@ -26,7 +26,7 @@ Representar a classe e fornecer os métodos a seguir:
    ```shell
    git clone https://github.com/Nathalia-Soares/simulado_prova_javaPOO.git
    simulado_prova_javaPOO
-   ```
+   ``````
 
 ## Licença
   Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
