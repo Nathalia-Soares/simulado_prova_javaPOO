@@ -1,5 +1,7 @@
-# simulado_prova_javaPOO
+# Simulado Prova Java (Programação Orientada a Objetos)
+
 Simulado de prova da disciplina Técnicas de Programação I, cujo o foco é o ensino de Programação Orientada a Objetos através da linguagem de programação Java
+Para o desenvolvimento deste código, foi utilizada a IDE Intellij Idea 2023.2.1 (Ultimate Edition) e o Java versão 17.
 
 ## Sobre o Projeto
 
