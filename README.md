@@ -34,4 +34,4 @@ Representar a classe e fornecer os métodos a seguir:
   Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 ## Contato
-  Se você tiver alguma dúvida, sugestão ou precisar de suporte, entre em contato conosco em nath_soares_oliver@hotmail.com.
+  Se você tiver alguma dúvida, sugestão ou precisar de suporte, entre em contato conosco em nathaliasoaresoliver@gmail.com.
