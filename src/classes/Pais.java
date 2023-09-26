@@ -46,7 +46,7 @@ public class Pais {
     }
 
     public void paisesIguais(Pais pais1, Pais pais2) {
-        if (pais1.getNome().equals(pais2.getNome())) {
+        if (pais1.getNome().equals(pais2.getNome()) && pais1.getCapital().equals(pais2.getCapital())) {
             System.out.println("Os dois países são iguais");
         } else {
             System.out.println("Os dois países não são iguais");
